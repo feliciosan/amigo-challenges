@@ -475,7 +475,7 @@
 - Colunas da tabela (**data | nome completo do cliente | telefone cliente | nome da loja | telefone da loja | tipo de finança | quantidade | preço unitário | preço total**)
 - Data e preço (valor) deverão vir formatados (DIA/MES/ANO) e (R$)
 - Criar um SELECT para filtro de ENTRADA/SAÍDA pelo atributo "type" do json. Onde IN é entrada e OUT saída.
-- Criar as informações de resumo dos dados, como mostrado na imagem abaixo. Informando o total por entrada, por saída e total geral.
+- Criar as informações de resumo dos dados, como mostrado na imagem abaixo. Informando o total por entrada, por saída e saldo.
 
 
 ![alt text](https://i.ibb.co/3TV8yC4/image-2.png)
