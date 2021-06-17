@@ -478,4 +478,4 @@
 - Criar as informações de resumo dos dados, como mostrado na imagem abaixo. Informando o total por entrada, por saída e total geral.
 
 
-![alt text](https://i.ibb.co/GkzcGMG/Whats-App-Image-2021-06-17-at-00-44-55.jpg)
+![alt text](https://i.ibb.co/3TV8yC4/image-2.png)
